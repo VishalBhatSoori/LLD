@@ -1,3 +1,4 @@
+package singleResponsibility;
 public class UserAuthenticator extends UserManager {
     @Override
     public void userAuthenticaton(){

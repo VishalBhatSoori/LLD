@@ -1,3 +1,4 @@
+package singleResponsibility;
 public class EmailNotifier extends UserManager{
     @Override
     public void emailNotification(){

@@ -1,3 +1,4 @@
+package singleResponsibility;
 public class UpdateProfile extends UserManager{
     @Override
     public void updateProfile(){

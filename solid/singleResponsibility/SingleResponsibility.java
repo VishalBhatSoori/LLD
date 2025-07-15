@@ -1,3 +1,4 @@
+package singleResponsibility;
 public class SingleResponsibility{
     public static void main(String[]args){
         UserManager manager = new UserAuthenticator();

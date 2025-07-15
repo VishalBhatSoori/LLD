@@ -1,3 +1,4 @@
+package singleResponsibility;
 public class UserManager{
     void userAuthenticaton(){
         System.out.println("User authenticated by Manager");
