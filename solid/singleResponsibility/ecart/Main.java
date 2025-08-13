@@ -24,5 +24,13 @@ public class Main {
         AddCartToDb addCart = new AddCartToDb(myCart);
         addCart.addToDb();
 
+        System.out.println("\n");
+
+        SaveToMongoDB data1 = new SaveToMongoDB();
+        data1.save();
+
+        SaveInDb data2 = new SaveToSQL();
+        data2.save();
+
     }
 }
