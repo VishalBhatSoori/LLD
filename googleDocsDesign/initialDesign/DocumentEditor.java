@@ -1,4 +1,4 @@
-package googleDocs.initialDesign;
+package googleDocsDesign.initialDesign;
 
 import java.io.FileWriter;
 import java.io.IOException;

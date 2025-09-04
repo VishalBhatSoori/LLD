@@ -1,4 +1,4 @@
-package googleDocs.initialDesign;
+package googleDocsDesign.initialDesign;
 
 public class Main {
     public static void main(String[] args) {
