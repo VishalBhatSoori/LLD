@@ -1,6 +1,6 @@
 # My Low-Level Design Repo
 
-In this repository of Low-Level Design, I have practised all SOLID principles, design patterns, and some examples in Java.
+In this repository of Low-Level Design, I have practised SOLID principles, design patterns, and some examples in Java.
 
 ## Index:
 
