@@ -6,3 +6,4 @@ In this repository of Low-Level Design, I have practised SOLID principles, desig
 
 1.  [solid](./solid/)
 2.  [googleDocsDesign](./googleDocsDesign/)
+3.  [zomatoDesign](./zomatoDesign/)
